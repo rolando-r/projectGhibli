@@ -2,6 +2,7 @@
 
 Welcome to the Studio Ghibli Parallax Effect Project! In this project, we will explore how to create a parallax effect using JavaScript, HTML, and CSS, while incorporating iconic characters from Studio Ghibli movies to bring our web page to life. 🪄🌟
 
+[![Screenshot](https://i.postimg.cc/zD6BJW3P/Captura-de-pantalla-2023-08-07-172658.png)](https://postimg.cc/7b1D953g)
 ## Description
 
 The goal of this project is to showcase how a parallax effect can be achieved, where background elements move at different speeds than foreground elements as you scroll. Additionally, we'll add the magic of Studio Ghibli characters 🧙‍♂️🌸 to give a charming touch to the experience.
