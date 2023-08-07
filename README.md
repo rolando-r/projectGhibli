@@ -8,7 +8,9 @@ The goal of this project is to showcase how a parallax effect can be achieved, w
 
 ## Skills 🛠
 HTML: Basic page structure.
+
 CSS: Styling for layout and elements.
+
 JavaScript: Controlling the parallax effect and interactivity.
 
 ## How It Works 🔄
